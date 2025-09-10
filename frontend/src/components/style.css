@@ -146,8 +146,9 @@
 }
 
 .about-container p {
-  font-size: 16px;
-  color: #666;
+  font-size: 18px;
+/*   color: #666; */
+  color:white;
   margin-bottom: 20px;
 }
 
