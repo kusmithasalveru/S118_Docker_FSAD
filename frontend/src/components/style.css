@@ -13,7 +13,7 @@
 
 .header {
   grid-area: header;
-  background: red;
+  background: lightpink;
   color: white;
   display: flex;
   align-items: center;
